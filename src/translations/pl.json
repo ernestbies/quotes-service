@@ -1,0 +1,9 @@
+{
+  "home": "strona główna",
+  "quotes_service": "Serwis Cytatów",
+  "quotes_service_title": "Wylosuj losowy\ncytat z Serwisem Cytatów!",
+  "quotes_service_text": "Cytaty są pobierane z zewnętrznego serwera API. Użytkownik ma możliwość wylosowania kolejnego cytatu lub powrotu do poprzedniego.",
+  "footer_text": "Aplikacja stworzona przez Ernesta Biesia.\nWszystkie prawa zastrzeżone.",
+  "loading_data": "Proszę czekać. Trwa wczytywanie danych...",
+  "loading_error": "Wystąpił błąd połączenia z serwerem. Spróbuj ponownie."
+}

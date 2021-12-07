@@ -1,0 +1,9 @@
+{
+  "home": "home",
+  "quotes_service": "Quotes Service",
+  "quotes_service_title": "Draw a random\nquote with Quotes Service!",
+  "quotes_service_text": "Quotes are drawn from an external API server. The user can draw another quote or return to the previous one.",
+  "footer_text": "App developed by Ernest Bieś.\nAll rights reserved.",
+  "loading_data": "Please wait. Data is being loaded...",
+  "loading_error": "There was an error connecting to the server. Try again."
+}
