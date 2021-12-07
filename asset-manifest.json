@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/quotes-service/static/css/main.db9944ab.chunk.css",
+    "main.js": "/quotes-service/static/js/main.5f0a893a.chunk.js",
+    "main.js.map": "/quotes-service/static/js/main.5f0a893a.chunk.js.map",
+    "runtime-main.js": "/quotes-service/static/js/runtime-main.dd778922.js",
+    "runtime-main.js.map": "/quotes-service/static/js/runtime-main.dd778922.js.map",
+    "static/js/2.92b51119.chunk.js": "/quotes-service/static/js/2.92b51119.chunk.js",
+    "static/js/2.92b51119.chunk.js.map": "/quotes-service/static/js/2.92b51119.chunk.js.map",
+    "static/js/3.4b1d4ed6.chunk.js": "/quotes-service/static/js/3.4b1d4ed6.chunk.js",
+    "static/js/3.4b1d4ed6.chunk.js.map": "/quotes-service/static/js/3.4b1d4ed6.chunk.js.map",
+    "index.html": "/quotes-service/index.html",
+    "static/css/main.db9944ab.chunk.css.map": "/quotes-service/static/css/main.db9944ab.chunk.css.map",
+    "static/js/2.92b51119.chunk.js.LICENSE.txt": "/quotes-service/static/js/2.92b51119.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/quotes-service/static/media/PatrickHandSC-Regular.b79b8f00.woff2",
+    "static/media/bitbucket.61fabe5b.svg": "/quotes-service/static/media/bitbucket.61fabe5b.svg",
+    "static/media/curved-arrow.b7b6c622.svg": "/quotes-service/static/media/curved-arrow.b7b6c622.svg",
+    "static/media/ernestbies.492df404.svg": "/quotes-service/static/media/ernestbies.492df404.svg",
+    "static/media/github.24c12438.svg": "/quotes-service/static/media/github.24c12438.svg",
+    "static/media/ink-splash.5bbb9786.svg": "/quotes-service/static/media/ink-splash.5bbb9786.svg",
+    "static/media/pen.415c1c27.svg": "/quotes-service/static/media/pen.415c1c27.svg",
+    "static/media/quote.76a85f51.svg": "/quotes-service/static/media/quote.76a85f51.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd778922.js",
+    "static/js/2.92b51119.chunk.js",
+    "static/css/main.db9944ab.chunk.css",
+    "static/js/main.5f0a893a.chunk.js"
+  ]
+}
