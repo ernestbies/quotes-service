@@ -1,7 +1,7 @@
 import styled, {css} from 'styled-components';
 
 export const StyledInfoSection = styled.div`
-    min-height: 450px;
+    min-height: 470px;
     clip-path: polygon(36% 8%, 30% 0, 100% 0, 100% 100%, 0 100%, 0 0);
     background-color: ${({theme}) => theme.colors.secondary};
     display: flex;
