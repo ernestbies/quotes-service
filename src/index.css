@@ -17,6 +17,7 @@ code {
   font-weight: 300;
   font-style: normal;
   src: url("assets/fonts/Lato-Light.woff2") format('woff2');
+  font-display: swap;
 }
 
 @font-face {
@@ -24,6 +25,7 @@ code {
   font-weight: 400;
   font-style: normal;
   src: url("assets/fonts/Lato-Regular.woff2") format('woff2');
+  font-display: swap;
 }
 
 @font-face {
@@ -31,6 +33,7 @@ code {
   font-weight: 700;
   font-style: normal;
   src: url("assets/fonts/Lato-Bold.woff2") format('woff2');
+  font-display: swap;
 }
 
 @font-face {
@@ -38,6 +41,7 @@ code {
   font-weight: 400;
   font-style: normal;
   src: url("assets/fonts/PatrickHandSC-Regular.woff2") format('woff2');
+  font-display: swap;
 }
 
 @font-face {
@@ -45,5 +49,5 @@ code {
   font-weight: 400;
   font-style: normal;
   src: url("assets/fonts/Gwendolyn-Regular.woff2") format('woff2');
+  font-display: swap;
 }
-
