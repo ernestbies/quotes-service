@@ -25,6 +25,6 @@ const LanguageSelector = () => {
             </LanguageType>
         </StyledSelector>
     )
-}
+};
 
 export default LanguageSelector;

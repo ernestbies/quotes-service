@@ -1,6 +1,7 @@
 import React from 'react';
 import {Helmet} from 'react-helmet';
 import {useTranslation} from "react-i18next";
+import PropTypes from 'prop-types';
 
 const SEO = ({title}) => {
 
@@ -17,6 +18,10 @@ const SEO = ({title}) => {
                 ]}
         />
     );
+}
+
+SEO.propTypes = {
+    title: PropTypes.string.isRequired
 }
 
 export default SEO;

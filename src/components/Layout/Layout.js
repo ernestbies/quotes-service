@@ -8,21 +8,20 @@ import {theme} from "../../themes/theme";
 import Footer from "../../parts/Footer/Footer";
 import Navbar from "../../parts/Navbar/Navbar";
 
-const Layout = ({title, children}) => {
-    return (
-        <>
-            <SEO title={title}/>
-            <GlobalStyles/>
-            <ThemeProvider theme={theme}>
-                <StyledPage>
-                    <Navbar/>
-                    {children}
-                    <Footer/>
-                </StyledPage>
-            </ThemeProvider>
-        </>
-    );
-};
+const Layout = ({title, children}) => (
+    <>
+        <SEO title={title}/>
+        <GlobalStyles/>
+        <ThemeProvider theme={theme}>
+            <StyledPage>
+                <Navbar/>
+                {children}
+                <Footer/>
+            </StyledPage>
+        </ThemeProvider>
+    </>
+);
+
 
 Layout.propTypes = {
     title: PropTypes.string.isRequired,

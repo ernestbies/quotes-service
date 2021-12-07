@@ -2,6 +2,7 @@ import React from "react";
 import {LoaderText, LoaderWrapper} from "./LoadingSpinner.styles";
 import ClipLoader from "react-spinners/ClipLoader";
 import {useTranslation} from "react-i18next";
+import PropTypes from 'prop-types';
 
 const LoadingSpinner = ({isConnected}) => {
 
@@ -19,6 +20,10 @@ const LoadingSpinner = ({isConnected}) => {
             }
         </LoaderWrapper>
     );
+};
+
+LoadingSpinner.propTypes = {
+    isConnected: PropTypes.bool.isRequired
 };
 
 export default LoadingSpinner;

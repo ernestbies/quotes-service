@@ -67,7 +67,6 @@ export const InfoTextContainer = styled.div`
     margin-top: 50px;
 `;
 
-
 export const InfoTitleParagraph = styled.p`   
     font-family: Patrick Hand SC, serif;
     font-size: ${({theme}) => theme.font.size.titleLg};

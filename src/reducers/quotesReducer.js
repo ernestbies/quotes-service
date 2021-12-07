@@ -10,7 +10,7 @@ const initialState = {
     index: -1,
     isFetching: true,
     isConnected: true
-}
+};
 
 export const quotesReducer = (state = initialState, action) => {
     switch (action.type) {
