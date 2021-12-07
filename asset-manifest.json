@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quotes-service/static/css/main.db9944ab.chunk.css",
+    "main.css": "/quotes-service/static/css/main.bf669dc8.chunk.css",
     "main.js": "/quotes-service/static/js/main.0c9baa67.chunk.js",
     "main.js.map": "/quotes-service/static/js/main.0c9baa67.chunk.js.map",
     "runtime-main.js": "/quotes-service/static/js/runtime-main.dd778922.js",
@@ -10,7 +10,7 @@
     "static/js/3.4b1d4ed6.chunk.js": "/quotes-service/static/js/3.4b1d4ed6.chunk.js",
     "static/js/3.4b1d4ed6.chunk.js.map": "/quotes-service/static/js/3.4b1d4ed6.chunk.js.map",
     "index.html": "/quotes-service/index.html",
-    "static/css/main.db9944ab.chunk.css.map": "/quotes-service/static/css/main.db9944ab.chunk.css.map",
+    "static/css/main.bf669dc8.chunk.css.map": "/quotes-service/static/css/main.bf669dc8.chunk.css.map",
     "static/js/2.92b51119.chunk.js.LICENSE.txt": "/quotes-service/static/js/2.92b51119.chunk.js.LICENSE.txt",
     "static/media/index.css": "/quotes-service/static/media/PatrickHandSC-Regular.b79b8f00.woff2",
     "static/media/bitbucket.61fabe5b.svg": "/quotes-service/static/media/bitbucket.61fabe5b.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.dd778922.js",
     "static/js/2.92b51119.chunk.js",
-    "static/css/main.db9944ab.chunk.css",
+    "static/css/main.bf669dc8.chunk.css",
     "static/js/main.0c9baa67.chunk.js"
   ]
 }
