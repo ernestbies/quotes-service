@@ -31,7 +31,6 @@ const InfoSection = () => {
                 <IconsContainer>
                     <SocialMediaIcon iconType={'portfolio'}/>
                     <SocialMediaIcon iconType={'github'}/>
-                    <SocialMediaIcon iconType={'bitbucket'}/>
                 </IconsContainer>
             </InfoTextContainer>
         </StyledInfoSection>
