@@ -13,13 +13,13 @@ const LanguageSelector = () => {
     return (
         <StyledSelector>
             <LanguageType
-                active={i18n.language === 'en'}
+                $active={i18n.language === 'en'}
                 onClick={() => changeLanguage('en')}>
                 {'En'}
             </LanguageType>
             <LanguageDivider/>
             <LanguageType
-                active={i18n.language === 'pl'}
+                $active={i18n.language === 'pl'}
                 onClick={() => changeLanguage('pl')}>
                 {'Pl'}
             </LanguageType>

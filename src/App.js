@@ -1,6 +1,5 @@
 import React from "react";
-import {Route} from 'react-router';
-import {HashRouter, Routes} from 'react-router-dom';
+import {HashRouter, Route, Routes} from 'react-router';
 import Home from "./pages/Home";
 
 const App = () => (

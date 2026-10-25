@@ -16,8 +16,8 @@ export const StyledQuotesContainer = styled.div`
 export const StyledBtn = styled.div`
     color: ${({theme}) => theme.colors.primary};
     background-color: ${({theme}) => theme.colors.secondary};
-    opacity: ${({isActive}) => isActive ? 1 : 0.4};
-    cursor: ${({isActive}) => isActive ? 'pointer' : 'auto'};
+    opacity: ${({$isActive}) => $isActive ? 1 : 0.4};
+    cursor: ${({$isActive}) => $isActive ? 'pointer' : 'auto'};
     outline: 0;
     min-width: 50px;
     height: 50px;
@@ -29,7 +29,7 @@ export const StyledBtn = styled.div`
     user-select: none;
     transition: 1s all ease-in-out;
     
-    ${({isActive}) => isActive && css`
+    ${({$isActive}) => $isActive && css`
         &:hover {
             transform: scale(1.1);
             color: orange;

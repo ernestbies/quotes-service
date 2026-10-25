@@ -1,5 +1,4 @@
 import React from "react";
-import PropTypes from 'prop-types';
 import {StyledPage} from "./Layout.styles";
 import {GlobalStyles} from "../../themes/GlobalStyles";
 import SEO from "../SEO";
@@ -21,11 +20,5 @@ const Layout = ({title, children}) => (
         </ThemeProvider>
     </>
 );
-
-
-Layout.propTypes = {
-    title: PropTypes.string.isRequired,
-    children: PropTypes.node.isRequired
-}
 
 export default Layout;

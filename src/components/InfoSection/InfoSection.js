@@ -19,11 +19,11 @@ const InfoSection = () => {
     return (
         <StyledInfoSection>
             <InfoImageContainer>
-                <ArrowImage src={arrowImage} position={'left'}/>
+                <ArrowImage src={arrowImage} $position={'left'}/>
                 <ImageWrapper>
                     <StyledImage src={penImage}/>
                 </ImageWrapper>
-                <ArrowImage src={arrowImage} position={'right'}/>
+                <ArrowImage src={arrowImage} $position={'right'}/>
             </InfoImageContainer>
             <InfoTextContainer>
                 <InfoTitleParagraph>{t('quotes_service_title')}</InfoTitleParagraph>
@@ -31,6 +31,7 @@ const InfoSection = () => {
                 <IconsContainer>
                     <SocialMediaIcon iconType={'portfolio'}/>
                     <SocialMediaIcon iconType={'github'}/>
+                    <SocialMediaIcon iconType={'bitbucket'}/>
                 </IconsContainer>
             </InfoTextContainer>
         </StyledInfoSection>

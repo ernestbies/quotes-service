@@ -32,9 +32,9 @@ const QuotesContainer = () => {
             {
                 isFetching ? <LoadingSpinner isConnected={isConnected}/> :
                     <>
-                        <StyledBtn isActive={index !== 0} onClick={previousQuoteFromList}>{'<'}</StyledBtn>
+                        <StyledBtn $isActive={index !== 0} onClick={previousQuoteFromList}>{'<'}</StyledBtn>
                         <Quote text={visitedQuotes[index]?.quote} author={visitedQuotes[index]?.author}/>
-                        <StyledBtn isActive onClick={nextQuoteFromList}>{'>'}</StyledBtn>
+                        <StyledBtn $isActive onClick={nextQuoteFromList}>{'>'}</StyledBtn>
                     </>
             }
         </StyledQuotesContainer>

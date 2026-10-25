@@ -49,7 +49,7 @@ export const ArrowImage = styled.img`
     pointer-events: none;
     user-select: none;
     
-    ${({position}) => position === 'left' ? css`
+    ${({$position}) => $position === 'left' ? css`
         transform: scaleY(-1) rotate(-20deg);
     ` : css`
         transform: scaleX(-1) rotate(-40deg);

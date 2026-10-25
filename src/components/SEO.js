@@ -1,27 +1,17 @@
-import React from 'react';
-import {Helmet} from 'react-helmet';
+import React, {useEffect} from 'react';
 import {useTranslation} from "react-i18next";
-import PropTypes from 'prop-types';
 
 const SEO = ({title}) => {
 
-    const {t} = useTranslation('common');
+    const {t, i18n} = useTranslation('common');
+
+    useEffect(() => {
+        document.documentElement.lang = i18n.resolvedLanguage || i18n.language;
+    }, [i18n, i18n.resolvedLanguage, i18n.language]);
 
     return (
-        <Helmet title={t(title).toUpperCase() + ' | ' + t('quotes_service').toUpperCase()}
-                htmlAttributes={{lang: 'en'}}
-                meta={[
-                    {
-                        name: `description`,
-                        content: 'Quotes Service created by Ernest Bieś',
-                    }
-                ]}
-        />
+        <title>{t(title).toUpperCase() + ' | ' + t('quotes_service').toUpperCase()}</title>
     );
-}
-
-SEO.propTypes = {
-    title: PropTypes.string.isRequired
 }
 
 export default SEO;

@@ -15,9 +15,9 @@ export const StyledSelector = styled.div`
 
 export const LanguageType = styled.p`
     font-size: 20px;
-    color: ${({active}) => active ? 'orange' : 'grey'};
+    color: ${({$active}) => $active ? 'orange' : 'grey'};
     font-family: Patrick Hand SC, serif;
-    font-weight: ${({active}) => active ? 700 : 400};
+    font-weight: ${({$active}) => $active ? 700 : 400};
     margin: 0;
     margin-left: 10px;
     transition: all 1s ease-in-out;
