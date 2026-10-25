@@ -9,8 +9,7 @@ An application that downloads quotes from the API. The user can draw another quo
 Use Node.js 24 (see `.nvmrc`) and Yarn Classic 1.22.22.
 
 ```sh
-nvm use
-yarn install --frozen-lockfile
+yarn install
 npm start
 ```
 
