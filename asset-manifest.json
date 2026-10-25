@@ -1,30 +1,27 @@
 {
   "files": {
-    "main.css": "/quotes-service/static/css/main.bf669dc8.chunk.css",
-    "main.js": "/quotes-service/static/js/main.9d56a022.chunk.js",
-    "main.js.map": "/quotes-service/static/js/main.9d56a022.chunk.js.map",
-    "runtime-main.js": "/quotes-service/static/js/runtime-main.dd778922.js",
-    "runtime-main.js.map": "/quotes-service/static/js/runtime-main.dd778922.js.map",
-    "static/js/2.92b51119.chunk.js": "/quotes-service/static/js/2.92b51119.chunk.js",
-    "static/js/2.92b51119.chunk.js.map": "/quotes-service/static/js/2.92b51119.chunk.js.map",
-    "static/js/3.4b1d4ed6.chunk.js": "/quotes-service/static/js/3.4b1d4ed6.chunk.js",
-    "static/js/3.4b1d4ed6.chunk.js.map": "/quotes-service/static/js/3.4b1d4ed6.chunk.js.map",
+    "main.css": "/quotes-service/static/css/main.9ae1b1ac.css",
+    "main.js": "/quotes-service/static/js/main.a9934f38.js",
+    "static/js/488.6f420a16.chunk.js": "/quotes-service/static/js/488.6f420a16.chunk.js",
+    "static/media/Gwendolyn-Regular.woff2": "/quotes-service/static/media/Gwendolyn-Regular.443df3404ef4892ac275.woff2",
+    "static/media/PatrickHandSC-Regular.woff2": "/quotes-service/static/media/PatrickHandSC-Regular.b79b8f00288dcd978e01.woff2",
+    "static/media/Lato-Regular.woff2": "/quotes-service/static/media/Lato-Regular.f49373676e5878763eae.woff2",
+    "static/media/Lato-Bold.woff2": "/quotes-service/static/media/Lato-Bold.eb3fc1b7eebd44f4bb37.woff2",
+    "static/media/Lato-Light.woff2": "/quotes-service/static/media/Lato-Light.d31423fb3e461c6107da.woff2",
+    "static/media/ink-splash.svg": "/quotes-service/static/media/ink-splash.5bbb9786b7e154c20c81856189d433af.svg",
+    "static/media/pen.svg": "/quotes-service/static/media/pen.415c1c27c00d3d9d0786edb79f70cbea.svg",
+    "static/media/ernestbies.svg": "/quotes-service/static/media/ernestbies.492df404148b1ccf7d0fc67ef5eb6122.svg",
+    "static/media/github.svg": "/quotes-service/static/media/github.24c124384512b1eb93a3e52871f22218.svg",
+    "static/media/quote.svg": "/quotes-service/static/media/quote.76a85f516d01347f440c4b45f0ea785d.svg",
+    "static/media/curved-arrow.svg": "/quotes-service/static/media/curved-arrow.b7b6c622d76e3b86ec017820fa46e283.svg",
     "index.html": "/quotes-service/index.html",
-    "static/css/main.bf669dc8.chunk.css.map": "/quotes-service/static/css/main.bf669dc8.chunk.css.map",
-    "static/js/2.92b51119.chunk.js.LICENSE.txt": "/quotes-service/static/js/2.92b51119.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/quotes-service/static/media/PatrickHandSC-Regular.b79b8f00.woff2",
-    "static/media/bitbucket.61fabe5b.svg": "/quotes-service/static/media/bitbucket.61fabe5b.svg",
-    "static/media/curved-arrow.b7b6c622.svg": "/quotes-service/static/media/curved-arrow.b7b6c622.svg",
-    "static/media/ernestbies.492df404.svg": "/quotes-service/static/media/ernestbies.492df404.svg",
-    "static/media/github.24c12438.svg": "/quotes-service/static/media/github.24c12438.svg",
-    "static/media/ink-splash.5bbb9786.svg": "/quotes-service/static/media/ink-splash.5bbb9786.svg",
-    "static/media/pen.415c1c27.svg": "/quotes-service/static/media/pen.415c1c27.svg",
-    "static/media/quote.76a85f51.svg": "/quotes-service/static/media/quote.76a85f51.svg"
+    "static/media/bitbucket.svg": "/quotes-service/static/media/bitbucket.61fabe5bd54c45b3be0c63b2aa1b0ba8.svg",
+    "main.9ae1b1ac.css.map": "/quotes-service/static/css/main.9ae1b1ac.css.map",
+    "main.a9934f38.js.map": "/quotes-service/static/js/main.a9934f38.js.map",
+    "488.6f420a16.chunk.js.map": "/quotes-service/static/js/488.6f420a16.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd778922.js",
-    "static/js/2.92b51119.chunk.js",
-    "static/css/main.bf669dc8.chunk.css",
-    "static/js/main.9d56a022.chunk.js"
+    "static/css/main.9ae1b1ac.css",
+    "static/js/main.a9934f38.js"
   ]
 }
